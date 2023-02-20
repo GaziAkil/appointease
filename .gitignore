@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Next.js build output
+.next/
+out/
+
+# Node.js runtime environment
+node_modules/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Package manager files
+yarn.lock
+package-lock.json
+npm-shrinkwrap.json
+
+# Compiled files
+*.class
+*.o
+*.pyc
+
+# Test files
+**/__tests__/
+**/*.test.*
+**/*.spec.*
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Project settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+.env.development
+.env.test
+.env.production
